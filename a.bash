@@ -1,7 +1,7 @@
 gdown --id 1QB1cw91ZMv2rzWSUYhtiQcHNzCWBPT3t
 unzip -o wq20200110.zip > /dev/null
 
-gdown --id 10UTbcjoG-fO7N2PR1j_ldQSuaL9Fo490
+gdown --id 11Atbh78Y94A56teLSndwemWwbxApSg4t
 mv *.gz networks
 
 chmod a+x autogtp
